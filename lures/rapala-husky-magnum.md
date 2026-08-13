@@ -38,10 +38,10 @@ their rod/holder pairing (diver duty out of the TLD 20), are in
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your> Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Mad Mac](mad-mac.md)
 - [Trolling](../techniques/trolling.md)
+- [Yohanan's Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 <!-- backlinks:end -->

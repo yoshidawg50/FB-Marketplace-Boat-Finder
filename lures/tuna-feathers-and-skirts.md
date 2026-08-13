@@ -70,7 +70,6 @@ dual-skirts (kept unopened) are in
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your> Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
@@ -81,4 +80,5 @@ dual-skirts (kept unopened) are in
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yohanan's Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 <!-- backlinks:end -->

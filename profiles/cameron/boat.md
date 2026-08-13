@@ -104,4 +104,5 @@ Owned trolling lures + running specs: [trolling lures](trolling-lures.md).
 - [Spreader Bar](../../lures/spreader-bar.md)
 - [Trolling](../../techniques/trolling.md)
 - [Yohanan's Boat](../yohanan/boat.md)
+- [Yohanan's Trolling Lures (owned)](../yohanan/trolling-lures.md)
 <!-- backlinks:end -->

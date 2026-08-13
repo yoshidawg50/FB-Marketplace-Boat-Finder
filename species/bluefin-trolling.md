@@ -100,7 +100,6 @@ school-grade play.
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your> Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Tuna](bluefin-tuna.md)
@@ -119,4 +118,5 @@ school-grade play.
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Yohanan's Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 <!-- backlinks:end -->

@@ -52,7 +52,6 @@ bars — so the bar-specific tuning above is attributed-experimental.
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your> Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
@@ -62,4 +61,5 @@ bars — so the bar-specific tuning above is attributed-experimental.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Mad Mac](mad-mac.md)
 - [Trolling](../techniques/trolling.md)
+- [Yohanan's Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 <!-- backlinks:end -->

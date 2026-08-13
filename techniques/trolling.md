@@ -95,7 +95,6 @@ Class terms for each: [gear classes](../tackle/gear-classes.md).
 ## Linked from
 
 - [<Your Boat>](../profiles/_template/boat.md)
-- [<Your> Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [August](../seasonal/august.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
@@ -115,4 +114,5 @@ Class terms for each: [gear classes](../tackle/gear-classes.md).
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Yohanan's Boat](../profiles/yohanan/boat.md)
+- [Yohanan's Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 <!-- backlinks:end -->
