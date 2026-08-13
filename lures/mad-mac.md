@@ -56,6 +56,7 @@ and how he pairs them to his rods and holders are in
 <!-- backlinks:start -->
 ## Linked from
 
+- [<Your> Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

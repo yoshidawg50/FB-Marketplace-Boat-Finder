@@ -81,6 +81,7 @@ many *drops*.
 ## Linked from
 
 - [<Your> Spots](../profiles/_template/spots.md)
+- [<Your> Spots](../profiles/yohanan/spots.md)
 - [Bass Structure](bass-structure.md)
 - [Bight Geography](bight-geography.md)
 - [BightSST Eval Targets](bightsst-eval-targets.md)

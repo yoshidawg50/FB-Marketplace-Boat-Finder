@@ -80,6 +80,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 <!-- backlinks:start -->
 ## Linked from
 
+- [<Your> Tackle — Casting & Jigging (owned)](../profiles/yohanan/tackle.md)
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

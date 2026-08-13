@@ -160,4 +160,5 @@ a bluefin).
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
+- [Yohanan's Rods — 4 Setups](../profiles/yohanan/rods.md)
 <!-- backlinks:end -->

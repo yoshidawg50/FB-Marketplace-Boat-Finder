@@ -74,6 +74,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 ## Linked from
 
 - [<Your> Spots](../profiles/_template/spots.md)
+- [<Your> Spots](../profiles/yohanan/spots.md)
 - [April](../seasonal/april.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [BightSST Eval Targets](../locations/bightsst-eval-targets.md)

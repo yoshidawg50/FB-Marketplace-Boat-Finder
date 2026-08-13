@@ -86,6 +86,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 <!-- backlinks:start -->
 ## Linked from
 
+- [<Your> Tackle — Casting & Jigging (owned)](../profiles/yohanan/tackle.md)
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)

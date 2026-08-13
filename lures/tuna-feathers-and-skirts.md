@@ -70,6 +70,7 @@ dual-skirts (kept unopened) are in
 <!-- backlinks:start -->
 ## Linked from
 
+- [<Your> Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)

@@ -94,8 +94,10 @@ Class terms for each: [gear classes](../tackle/gear-classes.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [<Your Boat>](../profiles/yohanan/boat.md)
 - [<Your Boat>](../profiles/_template/boat.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
+- [<Your> Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 - [August](../seasonal/august.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
