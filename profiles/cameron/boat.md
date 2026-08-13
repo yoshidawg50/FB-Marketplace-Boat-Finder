@@ -103,4 +103,5 @@ Owned trolling lures + running specs: [trolling lures](trolling-lures.md).
 - [Foamer Casting](../../techniques/foamer-casting.md)
 - [Spreader Bar](../../lures/spreader-bar.md)
 - [Trolling](../../techniques/trolling.md)
+- [Yohanan's Boat](../yohanan/boat.md)
 <!-- backlinks:end -->

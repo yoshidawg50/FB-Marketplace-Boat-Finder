@@ -80,9 +80,9 @@ see [making bait](making-bait.md).
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your Boat>](../profiles/yohanan/boat.md)
 - [<Your Boat>](../profiles/_template/boat.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Making Bait](making-bait.md)
+- [Yohanan's Boat](../profiles/yohanan/boat.md)
 <!-- backlinks:end -->

@@ -118,6 +118,6 @@ does the lookup.
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
-- [Yohanan's Rods — 4 Setups](../profiles/yohanan/rods.md)
+- [Yohanan's Rods — 5 Setups](../profiles/yohanan/rods.md)
 - [Yohanan's Tackle — Casting & Jigging (owned)](../profiles/yohanan/tackle.md)
 <!-- backlinks:end -->

@@ -94,10 +94,9 @@ Class terms for each: [gear classes](../tackle/gear-classes.md).
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your Boat>](../profiles/yohanan/boat.md)
 - [<Your Boat>](../profiles/_template/boat.md)
-- [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [<Your> Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
+- [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [August](../seasonal/august.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
@@ -115,4 +114,5 @@ Class terms for each: [gear classes](../tackle/gear-classes.md).
 - [Striped Marlin](../species/striped-marlin.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Yohanan's Boat](../profiles/yohanan/boat.md)
 <!-- backlinks:end -->

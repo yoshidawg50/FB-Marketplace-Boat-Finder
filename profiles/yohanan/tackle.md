@@ -15,7 +15,11 @@ class note; the plan recommends from the box. Class terms:
 yellow 2700-size.
 
 ## Surface / yo-yo irons → [iron jigs](../../lures/iron-jigs.md)
-- <model — color — size/weight — notes>
+- **Surface irons** — colors: mint, dark mackerel, scrambled egg, normal
+  mackerel (model/size not yet recorded).
+- **Yo-yo irons** — full-size and Jr size — colors: glow-in-the-dark white,
+  scrambled egg, chrome and blue, mint, blue and white (model not yet
+  recorded).
 
 ## Vertical jigs → [knife jigs](../../lures/knife-jigs.md)
 - **Colt Sniper metal jigs** — **42–130 g** — anchovy and sardine colorways,
@@ -24,10 +28,14 @@ yellow 2700-size.
   recorded yet.
 
 ## Poppers / stickbaits → [tuna poppers & stickbaits](../../lures/tuna-poppers-and-stickbaits.md)
-- <model — size — rigging>
+- **Clear Choice popper** — clear — large.
+- **Clear Choice popper** — red/orange — large.
+- **Yo-Zuri stickbait** — sardine colorway (exact model not yet recorded).
+- **Rapala stickbait** — rigged with circle hooks (exact model not yet
+  recorded).
 
 ## Soft plastics → [swimbaits](../../lures/soft-plastic-swimbaits.md) / [bay plastics](../../lures/bay-bass-plastics.md)
-- <model — size — color>
+- Larger jig heads + soft-plastic swimbaits (models/sizes not yet recorded).
 
 <!-- Flag experimental / want-to-try items as open items, not doctrine. -->
 

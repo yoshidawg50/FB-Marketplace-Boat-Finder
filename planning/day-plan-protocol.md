@@ -57,10 +57,9 @@ navigate the whole KB.
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your Boat>](../profiles/yohanan/boat.md)
 - [<Your Boat>](../profiles/_template/boat.md)
-- [<Your> Spots](../profiles/yohanan/spots.md)
 - [<Your> Spots](../profiles/_template/spots.md)
+- [<Your> Spots](../profiles/yohanan/spots.md)
 - [April](../seasonal/april.md)
 - [August](../seasonal/august.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
@@ -80,4 +79,5 @@ navigate the whole KB.
 - [Water Color](../conditions/water-color.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
+- [Yohanan's Boat](../profiles/yohanan/boat.md)
 <!-- backlinks:end -->

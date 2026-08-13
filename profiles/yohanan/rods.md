@@ -5,7 +5,7 @@ sources: [yohanan]
 confidence: high
 ---
 
-# Yohanan's Rods — 4 Setups
+# Yohanan's Rods — 5 Setups
 
 Rod/reel inventory. The **braid weight listed is what's spooled on that reel
 now**; top shots / leaders change per application. Class terms link to
@@ -36,6 +36,14 @@ logic.
 - **Reel:** Daiwa Lexa 500. **Braid: 65 lb**, optional fluoro leader.
 - **Role / gear class:** [surface-iron / jig-stick class](../../tackle/gear-classes.md)
   — deckhand-handle casting setup.
+
+## 5. Penn 500 spinning setup
+- **Rod:** Ugly Stik, **7'0", 15–30 lb rating**.
+- **Reel:** Penn 500 spinning reel.
+- **Role / gear class:** light general-purpose spinning outfit — not yet a
+  defined class in [gear classes](../../tackle/gear-classes.md) (the lexicon
+  is conventional-reel-only today); open item to fold spinning in as a class
+  if it becomes a regular part of the rotation.
 
 <!-- backlinks:start -->
 ## Linked from
