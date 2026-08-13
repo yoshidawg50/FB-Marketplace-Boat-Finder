@@ -17,7 +17,7 @@ terms for anything not yet filled in.
 - [<Your Boat>](boat.md) — Operating envelope + trolling platform.
 - [Yohanan's Rods — 4 Setups](rods.md) — Rod/reel inventory.
 - [<Your> Spots](spots.md) — Home waters and (optionally) named spots.
-- [<Your> Tackle — Casting & Jigging (owned)](tackle.md) — Your owned casting/jigging hard baits.
+- [Yohanan's Tackle — Casting & Jigging (owned)](tackle.md) — Owned casting/jigging hard baits.
 - [<Your> Trolling Lures (owned)](trolling-lures.md) — Your owned trolling spread.
 <!-- index:end -->
 

@@ -33,5 +33,7 @@ universal — see [locations](../../locations/); coordinates are personal.
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Day-Plan Protocol](../../planning/day-plan-protocol.md)
+- [Upwelling and Turnover](../../conditions/upwelling-and-turnover.md)
+- [Zone Lexicon](../../locations/zone-lexicon.md)
 <!-- backlinks:end -->

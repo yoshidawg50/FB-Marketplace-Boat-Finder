@@ -40,5 +40,6 @@ logic.
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
+- [Rod & Reel Selection — by Application](../../tackle/rod-and-reel-selection.md)
 <!-- backlinks:end -->

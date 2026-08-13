@@ -77,7 +77,6 @@ rigging from class terms above until it lands; see
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your> Tackle — Casting & Jigging (owned)](../profiles/yohanan/tackle.md)
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
@@ -89,4 +88,5 @@ rigging from class terms above until it lands; see
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yohanan's Tackle — Casting & Jigging (owned)](../profiles/yohanan/tackle.md)
 <!-- backlinks:end -->

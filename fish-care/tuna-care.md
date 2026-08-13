@@ -81,8 +81,8 @@ mass. Hold it in the cold at least this long before you consider it done:
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your Boat>](../profiles/_template/boat.md)
 - [<Your Boat>](../profiles/yohanan/boat.md)
+- [<Your Boat>](../profiles/_template/boat.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Dorado & General Fish Care](dorado-and-general.md)
 - [Ikejime (Iki-Jime)](ikejime.md)

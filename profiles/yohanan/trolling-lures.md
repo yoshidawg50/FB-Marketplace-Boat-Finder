@@ -29,5 +29,13 @@ and [trolling](../../techniques/trolling.md).
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Bluefin Trolling](../../species/bluefin-trolling.md)
+- [Cedar Plug](../../lures/cedar-plug.md)
+- [DTX Minnow](../../lures/dtx-minnow.md)
+- [Halco Laser Pro](../../lures/halco-laser-pro.md)
+- [Mad Mac](../../lures/mad-mac.md)
+- [Rapala Husky Magnum](../../lures/rapala-husky-magnum.md)
+- [Spreader Bar](../../lures/spreader-bar.md)
+- [Trolling](../../techniques/trolling.md)
+- [Tuna Feathers and Skirts](../../lures/tuna-feathers-and-skirts.md)
 <!-- backlinks:end -->

@@ -86,7 +86,6 @@ Cameron's owned plugs (attributed `cameron`; full list in
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your> Tackle — Casting & Jigging (owned)](../profiles/yohanan/tackle.md)
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
@@ -95,4 +94,5 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yohanan's Tackle — Casting & Jigging (owned)](../profiles/yohanan/tackle.md)
 <!-- backlinks:end -->

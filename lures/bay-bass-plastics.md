@@ -63,11 +63,11 @@ terms above; see [Cameron's tackle](../profiles/cameron/tackle.md).
 <!-- backlinks:start -->
 ## Linked from
 
-- [<Your> Tackle — Casting & Jigging (owned)](../profiles/yohanan/tackle.md)
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Yohanan's Tackle — Casting & Jigging (owned)](../profiles/yohanan/tackle.md)
 <!-- backlinks:end -->
