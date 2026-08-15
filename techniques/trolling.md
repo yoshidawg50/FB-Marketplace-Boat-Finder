@@ -113,6 +113,5 @@ Class terms for each: [gear classes](../tackle/gear-classes.md).
 - [Striped Marlin](../species/striped-marlin.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
-- [Yohanan's Boat](../profiles/yohanan/boat.md)
 - [Yohanan's Trolling Lures (owned)](../profiles/yohanan/trolling-lures.md)
 <!-- backlinks:end -->

@@ -85,5 +85,4 @@ mass. Hold it in the cold at least this long before you consider it done:
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Dorado & General Fish Care](dorado-and-general.md)
 - [Ikejime (Iki-Jime)](ikejime.md)
-- [Yohanan's Boat](../profiles/yohanan/boat.md)
 <!-- backlinks:end -->

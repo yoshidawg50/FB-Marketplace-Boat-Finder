@@ -85,7 +85,7 @@ BightSST eval targets: 14 Mile Bank, North + South 9 Mile Bank, Cortes Bank, 302
 - E. Butterfly — 32 16.417 / 118 06.000
 - 371 — 32 16.200 / 117 32.800
 - 101 — 32 15.000 / 117 15.000
-- 425 — 32 15.000 / 117 23.200
+- 425 (seamount, ~4700 ft; offshore tuna grounds — yohanan) — 32 15.000 / 117 23.200
 - 421 — 32 08.000 / 117 52.000
 - Upper Finger Bank — 32 06.800 / 117 04.400
 - 390 — 32 05.000 / 117 48.800

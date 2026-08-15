@@ -79,5 +79,4 @@ navigate the whole KB.
 - [Water Color](../conditions/water-color.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
-- [Yohanan's Boat](../profiles/yohanan/boat.md)
 <!-- backlinks:end -->

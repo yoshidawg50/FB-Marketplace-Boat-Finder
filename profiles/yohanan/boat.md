@@ -15,5 +15,9 @@ to add here until a separate platform comes into the picture.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bait Tanks](../../bait/bait-tanks.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../cameron/boat.md)
+- [Day-Plan Protocol](../../planning/day-plan-protocol.md)
+- [Trolling](../../techniques/trolling.md)
+- [Tuna Care](../../fish-care/tuna-care.md)
 <!-- backlinks:end -->
